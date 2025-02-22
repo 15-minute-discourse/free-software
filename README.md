@@ -25,6 +25,26 @@ Whether you're a tech enthusiast, a concerned citizen, or just curious about the
 
 ---
 
+- [Free Software Explained: It's NOT About Free Beer (But It's Still Awesome!)](#free-software-explained-its-not-about-free-beer-but-its-still-awesome)
+  - [Long-Term Implications of Permissive FOSS Licenses](#long-term-implications-of-permissive-foss-licenses)
+  - [Examining Software Security: Open Source vs. Proprietary](#examining-software-security-open-source-vs-proprietary)
+  - [Free Software and the Digital Divide](#free-software-and-the-digital-divide)
+  - [Manifesting Philosophical Differences: Free Software vs. Open Source](#manifesting-philosophical-differences-free-software-vs-open-source)
+  - [The Free Software Movement as a Gift Economy](#the-free-software-movement-as-a-gift-economy)
+  - [Challenges Facing the Free Software Movement](#challenges-facing-the-free-software-movement)
+  - [Business Adoption of Free Software: The Impact of Licensing](#business-adoption-of-free-software-the-impact-of-licensing)
+  - [Podcast Questions About Free Software](#podcast-questions-about-free-software)
+  - [Impact of Paid and Free Software on Software Development](#impact-of-paid-and-free-software-on-software-development)
+  - [Ranking Free Software by Freedom](#ranking-free-software-by-freedom)
+  - [Pros and Cons of Free Software](#pros-and-cons-of-free-software)
+  - [Opposition to the Free Software Movement](#opposition-to-the-free-software-movement)
+  - [How Key Actors and Stakeholders in Free Software Make Money](#how-key-actors-and-stakeholders-in-free-software-make-money)
+  - [Justifications for the Emergence of Free Software](#justifications-for-the-emergence-of-free-software)
+  - [Defining and Understanding "Free Software"](#defining-and-understanding-free-software)
+
+
+---
+
 ## Long-Term Implications of Permissive FOSS Licenses
 
 The sources indicate that permissive licenses, especially the MIT License, are becoming increasingly popular in the Free and Open Source Software (FOSS) ecosystem, surpassing even the historically dominant GPLv2 in prevalence on platforms like GitHub \[1-7\]. This trend prompts consideration of its potential long-term implications, particularly concerning the future of copyleft licensing and the power dynamics within the software industry.
